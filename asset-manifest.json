@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/moviPage/static/js/main.309b9f58.js",
-    "index.html": "/moviPage/index.html",
-    "main.309b9f58.js.map": "/moviPage/static/js/main.309b9f58.js.map"
+    "main.js": "/moviePage/static/js/main.309b9f58.js",
+    "index.html": "/moviePage/index.html",
+    "main.309b9f58.js.map": "/moviePage/static/js/main.309b9f58.js.map"
   },
   "entrypoints": [
     "static/js/main.309b9f58.js"
